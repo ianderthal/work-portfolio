@@ -15,12 +15,6 @@ export const authors: Props[] = [
     bio: "Mario is a Staff Engineer specialising in Frontend at Vercel, as well as being a co-founder of Acme and the content management system Sanity. Prior to this, he was a Senior Engineer at Apple.",
   },
   {
-    name: "Joshua Wood",
-    slug: "joshua-wood",
-    image: "./src/assets/authors/joshua.webp",
-    bio: "Joshua is a Microsoft Azure Certified Cloud Professional and a Google Certified Associate Cloud Engineer. A Data Analytics at Acme, specializing in the use of cloud infrastructure for Machine Learning and Deep Learning operation at scale.",
-  },
-  {
     name: "Erika Oliver",
     slug: "erika-oliver",
     image: "./src/assets/authors/erika.webp",
